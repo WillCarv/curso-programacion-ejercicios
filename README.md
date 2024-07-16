@@ -1,9 +1,10 @@
-#Ejercicio 1
+# Ejercicio 1
 
-##Descripcion
-#En este ejercicio manejamos nuestras habilidades con CSS y HTML para la creacion de una pagina
-#de notificaciones responsive.
+## Descripción
+Este ejercicio consiste en crear una página web simple.
 
+## Código
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -122,3 +123,4 @@
   <script src="./main.js"></script>
 </body>
 </html>
+
