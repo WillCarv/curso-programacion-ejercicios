@@ -1,7 +1,7 @@
 # Ejercicio 1
 
 ## Descripción
-Este ejercicio consiste en crear una página web simple.
+#En este ejercicio manejamos nuestras habilidades con CSS y HTML para la creacion de una pagina #de notificaciones responsive.
 
 ## Código
 ```html
