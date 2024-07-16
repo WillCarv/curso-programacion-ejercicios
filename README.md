@@ -1,7 +1,7 @@
 # Ejercicio 1
 
 ## Descripción
-Este reto consistia en realizar una pagiona de notificaciones responsive utilizando CSS y HTML.
+Este reto consistia en realizar una pagina de notificaciones responsive utilizando CSS y HTML.
 
 ## Código
 ```html
