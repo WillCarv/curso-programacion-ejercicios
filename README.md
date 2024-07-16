@@ -1,7 +1,7 @@
 # Ejercicio 2
 
 ## Descripción
-En este ejercicio desarrollé mis habilidades para el aprendizaje de TailWind CSS, HTML y JavaScript, además de la creación de componentes en React creando un Social Media Dashboard.
+Este reto consiste en crear un Social Media Dashboar utilizando TailWind CSS, HTML y JavaScript, además de la creación de componentes en React.
 
 ## Código
 ```html
