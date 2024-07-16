@@ -1,7 +1,7 @@
 # Ejercicio 1
 
 ## Descripción
-#En este ejercicio manejamos nuestras habilidades con CSS y HTML para la creacion de una pagina #de notificaciones responsive.
+Este reto consistia en realizar una pagiona de notificaciones responsive utilizando CSS y HTML.
 
 ## Código
 ```html
