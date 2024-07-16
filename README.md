@@ -1,11 +1,10 @@
-#Ejercicio 2
+# Ejercicio 2
 
-##Descripcion 
-En este ejercicio desarrolle mis habilidades para el aprendizaje de TailWind CSS, html y javascript,
-ademas de la creacion de componentes en React
+## Descripción
+En este ejercicio desarrollé mis habilidades para el aprendizaje de TailWind CSS, HTML y JavaScript, además de la creación de componentes en React creando un Social Media Dashboard.
 
-##Codigo
-```<html>
+## Código
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
