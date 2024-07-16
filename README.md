@@ -1,14 +1,7 @@
 # Ejercicio 3
 
 ## Descripcion
-
-## Codigo  
-
-
-# Ejercicio 2
-
-## Descripción
-En este ejercicio desarrollé mis habilidades para el aprendizaje de TailWind CSS, HTML y JavaScript, además de la creación de componentes en React.
+Este reto consiste en crear una Landing Page utilizando CSS,JAVASCRIP Y HTML.
 
 ## Código
 ```html
